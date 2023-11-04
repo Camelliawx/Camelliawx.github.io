@@ -44,7 +44,7 @@ links:
   #  url: /awards/
   #- title: Fundings
   #  url: /fundings/
-  - title:/About Me
+  - title: AboutMe
     url: /aboutme/
   - title: Blogs
     url: /blogs/
