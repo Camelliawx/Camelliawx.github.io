@@ -1,4 +1,4 @@
-title: Welcome to Camellia's Blog
+title: Camellia's Blog
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
@@ -9,7 +9,7 @@ owner:
   name: Longzhi Wan
   avatar: camellia.jpg
  # bio:
-  email: 3183731342@qq.com
+  #email: 3183731342@qq.com
   cv: https://camelliawx.github.io/file/CV-camellia.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   #twitter: lancecai2002
@@ -36,7 +36,7 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: INDEX
     url: /
   #- title: Publications
   #  url: /publications/
@@ -44,8 +44,8 @@ links:
   #  url: /awards/
   #- title: Fundings
   #  url: /fundings/
-  - title: Hobbies
-    url: /hobbies/
+  - title:/About Me
+    url: /aboutme/
   - title: Blogs
     url: /blogs/
 
@@ -83,5 +83,3 @@ disqus:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
-
-# Latest update in 2023/10/15 by Hanlin Cai.
